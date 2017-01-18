@@ -1,0 +1,17 @@
+{
+  "name": "amilateyou",
+  "version": "0.0.3",
+  "description": "tough plugin",
+  "cordova": {
+    "id": "cordovapluginamilateyou",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "vh",
+  "license": "ISC"
+}
